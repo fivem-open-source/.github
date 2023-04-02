@@ -1,6 +1,6 @@
 ## STREETV-ROLEPLAY
 
-Deutscher FiveM Midcore Roleplay-Server.
+Deutscher FiveM Midcore Roleplay-Server. (Teils Open-Source)
 
 <!--
 Bei interesse am Server, oder nur bei der Entwicklung seid ihr auf unserem Discord Herzlich Willkommen.
